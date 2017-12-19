@@ -1,0 +1,3 @@
+Names 64
+Mirror 80
+Reverse Rot 34

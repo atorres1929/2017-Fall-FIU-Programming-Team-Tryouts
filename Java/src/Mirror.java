@@ -9,7 +9,7 @@ public class Mirror {
         int z = 0;
         int test = 1;
         Pattern delimeter = scanner.delimiter();
-        while (z <= times) {
+        while (z < times) {
             int rows = scanner.nextInt();
             int cols = scanner.nextInt();
             scanner.nextLine();
@@ -20,7 +20,7 @@ public class Mirror {
                     image[i][j] = scanner.next();
                 }
                 i++;
-                if (z == times && i == rows) {
+                if (z == times - 1 && i == rows) {
                     scanner.close();
                 } else {
                     scanner.nextLine();
