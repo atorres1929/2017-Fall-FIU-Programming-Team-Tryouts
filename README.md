@@ -2,6 +2,8 @@
 
 The following problems were compeleted over the course of several days (not all in one sitting).
 
+The time is in minutes.
+
 |Problem|Time|Incomplete Reason|
 |-------|----|-----------------|
 Names | 64
